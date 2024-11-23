@@ -1,0 +1,5 @@
+torch==2.4.0
+torchvision==0.10.0
+tqdm>=4.68.0
+numpy==1.21.2
+pickle5>=0.0.12
