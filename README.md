@@ -1,4 +1,4 @@
-Course assignments of COL334:- Computer Networks course at IIT Delhi under Professor Tarun Mangla
+Course assignments of COL774 :- Machine Learning course at IIT Delhi under Professor Rahul Garg
 
 - [Assignment 1:- Regression](./Assignment_1_Regression_Tasks)
     * Predictions using Linear and Logistic regression for hospital price dataset
